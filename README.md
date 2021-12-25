@@ -16,7 +16,6 @@
    <img src="комната3.png"/> <BR>
   <ul>
     <li> <a href= "https://youtu.be/JEsvIpAVn8Q">Видео о Кае </a> </li>
-    
     <ul>
     <li> <a href= "https://disk.yandex.ru/d/jaV53rxsng22Cw">Скачать шрифт </a> </li>
     </html>
