@@ -2,7 +2,7 @@
   <head>
     <h1> Биография Кая </h1>
   </head>
-  
+  <body style= ""
   
   <img src="ф перс.png"/> <BR>
   <body>
