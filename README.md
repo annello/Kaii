@@ -2,7 +2,7 @@
   <head>
     <h1> Биография Кая </h1>
   </head>
-  <body style= "SVGFont 1 обычный"> </body>
+  <body style= "font2200"> </body>
   Кай
   <img src="ф перс.png"/> <BR>
   <body>
