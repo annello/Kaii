@@ -18,4 +18,6 @@
     <li> <a href= "https://youtu.be/JEsvIpAVn8Q">Видео о Кае </a> </li>
     <ul>
     <li> <a href= "https://disk.yandex.ru/d/jaV53rxsng22Cw">Скачать шрифт </a> </li>
+      <ul>
+        <li> <a href= "">Скачать шрифт по ссылке </a> </li>
     </html>
